@@ -8,7 +8,7 @@
 - 国内业务主域名：airdb.net
 - 主机管理： airdb.host
 
-命名规范：<project>.<domain>
+命名规范：project.domain
 
 其中 project 是一串英文字符，不能包括 "."， 最好是项目英文名，可以使用"-"和数字。
 

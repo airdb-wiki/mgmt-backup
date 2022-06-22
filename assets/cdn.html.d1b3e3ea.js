@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as t,b as e,e as c}from"./app.234965af.js";const r={},d=e("h2",{id:"cdn-management",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#cdn-management","aria-hidden":"true"},"#"),c(" CDN Management")],-1),o=[d];function s(_,i){return n(),t("div",null,o)}var h=a(r,[["render",s],["__file","cdn.html.vue"]]);export{h as default};

@@ -15,7 +15,7 @@ export const navbarEn: NavbarConfig = [
     link: '/weekly/',
   },
   {
-    text: 'Ideas',
-    link: '/idea/',
+    text: 'Team',
+    link: '/team/',
   }
 ]

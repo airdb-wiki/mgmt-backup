@@ -42,5 +42,19 @@ export const sidebarEn: SidebarConfig = {
         '/weekly/2022-q4.md',
       ]
     }
+  ],
+  '/team/': [
+    {
+      text: '',
+      children: [
+        '/team/README.md',
+        '/team/culture.md',
+        '/team/feedback.md',
+        '/team/join_us.md',
+        '/team/meeting.md',
+        '/team/rules.md',
+        '/team/team_mgmt.md',
+      ],
+    },
   ]
 }

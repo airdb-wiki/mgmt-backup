@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5408131f","path":"/Dev/cdn.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"CDN Management","slug":"cdn-management","children":[]}],"git":{"updatedTime":1655918710000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"Dev/cdn.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8b766300","path":"/okr/swordman/","title":"OKR 之剑","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1677041908000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"okr/swordman/README.md"}');export{a as data};

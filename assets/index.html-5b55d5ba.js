@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,R as e,t as s}from"./framework-5866ffd3.js";const c={},o=e("h1",{id:"组织管理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#组织管理","aria-hidden":"true"},"#"),s(" 组织管理")],-1),r=e("p",null,"凝集团队的力量，明确清晰的目标，使目标达成。",-1),_=[o,r];function d(i,l){return a(),n("div",null,_)}const f=t(c,[["render",d],["__file","index.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"组织管理","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1677042966000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":3}]},"filePathRelative":"readme.md"}');export{e as data};

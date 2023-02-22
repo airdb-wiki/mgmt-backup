@@ -54,6 +54,7 @@ export const sidebarEn: SidebarConfig = {
         '/team/meeting.md',
         '/team/rules.md',
         '/team/team_mgmt.md',
+        '/team/idea.md',
       ],
     },
   ]

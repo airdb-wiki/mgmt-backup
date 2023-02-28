@@ -14,8 +14,6 @@ export const navbarEn: NavbarConfig = [
     text: 'Weekly ',
     link: '/weekly/',
   },
-  {
-    text: 'Team',
-    link: '/team/',
-  }
+  { text: 'Team', link: '/team/', },
+  { text: 'Action', link: '/action/', }
 ]

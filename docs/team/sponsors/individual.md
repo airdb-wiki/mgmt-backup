@@ -25,7 +25,7 @@ Airdb Team 开启了 [Github Sponsors](https://github.com/sponsors/airdb?frequen
 
 |Date | 捐赠人 |  货币 |  金额 | 支付方式 | 备注 |
 |----| --- | --- | --- | --- | --- |
-|0214| 我来了 | RMB | 15.21 | Wechat |
+|0303| 我来了 | RMB | 15.21 | Wechat |
 
 ## 权益
 

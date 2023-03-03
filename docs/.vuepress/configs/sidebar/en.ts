@@ -1,6 +1,16 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const sidebarEn: SidebarConfig = {
+  '/': [
+    {
+      text: 'Overall',
+      children: [
+        '/team/README.md',
+        '/team/sig/README.md',
+        '/team/sponsors/individual.md',
+      ]
+    },
+  ],
   '/okr/': [
     {
       text: 'OKR 的背景',
@@ -56,7 +66,14 @@ export const sidebarEn: SidebarConfig = {
         '/team/rules.md',
         '/team/team_mgmt.md',
         '/team/idea.md',
+        '/team/working_method.md',
       ],
+    },
+    {
+      text: 'SIG',
+      children: [
+        '/team/sig/README.md',
+      ]
     },
     {
       text: '捐赠',
@@ -70,6 +87,18 @@ export const sidebarEn: SidebarConfig = {
       children: [
         '/team/contribution/personal_project.md',
         '/team/contribution/team_project.md',
+      ],
+    },
+  ],
+  '/roles/': [
+    {
+      text: 'Roles',
+      children: [
+        '/roles/README.md',
+        '/roles/dev_be.md',
+        '/roles/dev_fe.md',
+        '/roles/dev_data.md',
+        '/roles/sre.md',
       ],
     },
   ]

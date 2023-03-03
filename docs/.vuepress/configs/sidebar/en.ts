@@ -45,7 +45,8 @@ export const sidebarEn: SidebarConfig = {
   ],
   '/team/': [
     {
-      text: '',
+      text: '文化',
+      collapsible: true,
       children: [
         '/team/README.md',
         '/team/culture.md',
@@ -55,6 +56,20 @@ export const sidebarEn: SidebarConfig = {
         '/team/rules.md',
         '/team/team_mgmt.md',
         '/team/idea.md',
+      ],
+    },
+    {
+      text: '捐赠',
+      children: [
+        '/team/sponsors/individual.md',
+        '/team/sponsors/team.md',
+      ],
+    },
+    {
+      text: '社区贡献',
+      children: [
+        '/team/contribution/personal_project.md',
+        '/team/contribution/team_project.md',
       ],
     },
   ]

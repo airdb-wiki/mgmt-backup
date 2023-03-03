@@ -1,1 +1,0 @@
-import{_ as a,p as t,q as s,R as e,t as c}from"./framework-5866ffd3.js";const d={},o=e("h1",{id:"idea",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#idea","aria-hidden":"true"},"#"),c(" Idea")],-1),n=e("p",null,"一些关于团队建设的想法",-1),r=[o,n];function _(i,l){return t(),s("div",null,r)}const f=a(d,[["render",_],["__file","idea.html.vue"]]);export{f as default};
